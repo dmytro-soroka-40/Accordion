@@ -21,8 +21,6 @@ body {
   position: relative;
 
   width: 100%;
-
-  border-bottom: 1px solid black;
 }
 
 .accordion__title {
@@ -34,6 +32,14 @@ body {
   color: #ffffff;
 
   cursor: pointer;
+}
+
+.accordion__item:first-of-type > .accordion__title {
+  border-radius: 5px 5px 0 0;
+}
+
+.accordion__item:last-of-type > .accordion__title {
+  border-radius: 0 0 5px 5px;
 }
 
 .accordion__title::before {
