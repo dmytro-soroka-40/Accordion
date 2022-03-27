@@ -2,7 +2,7 @@
 
 ## About
 
-Accordion – UI element that is created to visually reproduce certain information, <br/> in this project I tried to create this element <br/> by generating data from the data-object
+Accordion – UI element that is created to visually reproduce certain information, <br/> in this project I tried to create this element by generating data from the data-object
 
 
 ## Technologies
